@@ -16,7 +16,7 @@ namespace Tyuiu.VolkovNS.Sprint0.Task4.V0.Lib
         {
             return a * b;
         }
-        public static int Division(int a, int b)
+        public static double Division(int a, int b)
         {
             return a / b;
         }
