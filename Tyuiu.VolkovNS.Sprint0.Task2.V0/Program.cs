@@ -5,6 +5,5 @@ internal class Program
     {
         Console.WriteLine(DataService.GetMessage("Никита"));
         Console.ReadKey();
-
     }
 }
